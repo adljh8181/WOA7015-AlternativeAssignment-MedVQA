@@ -11,4 +11,4 @@ This project compares a discriminative baseline (**ResNet+BERT**) against a gene
 We use the **VQA-RAD** dataset, containing 315 radiology images and 3,515 QA pairs.
 
 ## How to Run
-The preliminary analysis can be found in `Preliminary_Data_Analysis.ipynb`.
+The preliminary analysis can be found in `AML_AA.ipynb`.
